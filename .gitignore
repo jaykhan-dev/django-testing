@@ -1,0 +1,4 @@
+*.pyc
+/testing-env/
+db.sqlite3
+/myproject/settings/dev.py
